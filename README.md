@@ -7,10 +7,10 @@ Utilizing the clustering algorithm, we target on the performance of stocks price
 Top 100 company in S&P500
 Price value are taken from the Yahoo! historical quotes API
 Reason:
-a. representative cross-section of stocks;
-b. have a very large trading volume;
-c. general long-tern trend;
-d.in-sector volatility
+- a. representative cross-section of stocks;
+- b. have a very large trading volume;
+- c. general long-tern trend;
+- d.in-sector volatility
 
 ### Methodology
 Stock Performance(variance)=close price-open price  ---- standardized stock variance
